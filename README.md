@@ -1,5 +1,3 @@
-<img align="right" height="590em"
-src="https://raw.githubusercontent.com/gist/rosearerosiesdev/146c0f900e94b71d3dcd07492ace3d0f/raw/913774414a26e1cf1f88f431de51d55f22627d75/githubcard.svg">
 <h1 align="left"> Hello! i'm Mariana </h1>
 
 - 📚 Undergraduate student in system analysis and development
